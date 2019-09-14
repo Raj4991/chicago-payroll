@@ -1,0 +1,6 @@
+Let's explore real payroll data of Chicago city (https://www.kaggle.com/chicago/chicago-citywide-payroll-data). This data is available on kaggle website and can be downloaded using the provided link. However, a copy of dataset is provided in the course material as well.
+
+Links to few similar datasets are given below to explore ang practice your skills.
+? City payroll information for all Los Angeles employees since 2013
+? San Francisco city employee salary data
+? New York City - Citywide Payroll Data
